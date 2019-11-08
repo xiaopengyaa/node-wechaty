@@ -1,0 +1,23 @@
+{
+  "name": "node-wechaty",
+  "version": "1.0.0",
+  "description": "a node project for query node wechaty",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaopengyaa/node-wechaty.git"
+  },
+  "author": "xiaopeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaopengyaa/node-wechaty/issues"
+  },
+  "homepage": "https://github.com/xiaopengyaa/node-wechaty#readme",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "wechaty": "^0.28.3"
+  }
+}
